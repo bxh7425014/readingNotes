@@ -4,7 +4,7 @@ Mac Web开发环境配置
 
 \`\`\`
 
-/usr/bin/ruby -e "$\(curl -fsSL [https://raw.githubusercontent.com/Homebrew/install/master/install\](https://raw.githubusercontent.com/Homebrew/install/master/install\)\)"
+/usr/bin/ruby -e "$\(curl -fsSL [https://raw.githubusercontent.com/Homebrew/install/master/install\](https://raw.githubusercontent.com/Homebrew/install/master/install%29\)"
 
 \`\`\`
 
@@ -112,7 +112,7 @@ export JAMES\_SRC\_HOME=/usr/local/james-project/james-project
 
 \`\`\`
 
-安装maven，\[参考教程\]\([https://james.apache.org/server/3/dev-build.html\](https://james.apache.org/server/3/dev-build.html\)\)
+安装maven，\[参考教程\]\([https://james.apache.org/server/3/dev-build.html\](https://james.apache.org/server/3/dev-build.html%29\)
 
 \`\`\`
 
