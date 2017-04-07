@@ -82,7 +82,10 @@ $brew install zookeeper
 启动服务
 
 ```
-$zkServer
+$ zkServer start
+ZooKeeper JMX enabled by default
+Using config: /usr/local/etc/zookeeper/zoo.cfg
+Starting zookeeper ... STARTED
 ```
 
 查看zookeeper运行及状态
