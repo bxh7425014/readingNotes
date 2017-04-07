@@ -49,7 +49,7 @@ i = 10++;
 
 举个最简单的例子，大家想一下假如为一个32位的变量赋值过程不具备原子性的话，会发生什么后果？
 
-```
+```java
 i = 9;
 ```
 
@@ -65,7 +65,7 @@ i = 9;
 
 请分析以下哪些操作是原子性操作：
 
-```
+```java
 x = 10; 
  //语句1
 y = x; 
@@ -102,7 +102,7 @@ x = x + 1;
 
 举个简单的例子，看下面这段代码：
 
-```
+```java
 //线程1执行的代码
 int i = 0;
 i = 10;
@@ -134,7 +134,7 @@ j = i;
 
 举个简单的例子，看下面这段代码：
 
-```
+```java
 int i = 0; 
 boolean flag = false;
 i = 1; 
@@ -153,7 +153,7 @@ flag = true;
 
 但是要注意，虽然处理器会对指令进行重排序，但是它会保证程序最终结果会和代码顺序执行结果相同，那么它靠什么保证的呢？再看下面一个例子：
 
-```
+```java
 int a = 10; 
 //语句1
 int r = 2; 
@@ -174,7 +174,7 @@ r = a*a;
 
 虽然重排序不会影响单个线程内程序执行的结果，但是多线程呢？下面看一个例子：
 
-```
+```java
 //线程1:
 context = loadContext(); 
  //语句1
@@ -236,7 +236,7 @@ doSomethingwithconfig(context);
 
 先看一段代码，假如线程1先执行，线程2后执行：
 
-```
+```java
 //线程1
 boolean stop = false;
 while(!stop){
@@ -268,7 +268,7 @@ stop = true;
 
 下面看一个例子：
 
-```
+```java
 public class Test {
     public volatile int inc = 0;
 
@@ -330,7 +330,7 @@ volatile关键字禁止指令重排序有两层意思：
 
 可能上面说的比较绕，举个简单的例子：
 
-```
+```java
 //x、y为非volatile变量
 //flag为volatile变量
 x = 2;
@@ -351,7 +351,7 @@ y = -1;
 
 那么我们回到前面举的一个例子：
 
-```
+```java
     // 线程1:
 
     context=
@@ -406,7 +406,7 @@ synchronized关键字是防止多个线程同时执行一段代码，那么就�
 
 1. 状态标记量
 
-```
+```java
 volatile boolean flag = false;
 //线程1
 while(!flag){
@@ -422,7 +422,7 @@ flag = true;
 
 1. 单例模式中的double check
 
-```
+```java
 class Singleton {
 
     private volatile static Singleton instance = null;
