@@ -77,6 +77,7 @@ public class SimplerPets {
 ```
 > 对于类型参数推断而言，这是一个有趣的例子。不过，很难说它为我们带来了多少好处。
 类型推断只对赋值操作有效，其他时候并不起作用。如果你将一个泛型方法调用的结果(例如New.map())作为参数，传递给另一个方法，这时编译器井不会执行类型推断。在这种情况下，编译器认为：调用泛型方法后，其返回值被赋给一个Object类型的变量。下面的例子证明了这一点：
+
 ```java
 public class LimitsOfInference {
   static void
@@ -151,6 +152,7 @@ Mocha 3
 *///:~
 ```
 > 请注意，fill()方法是如何透明地应用于Coffee和lnteger的容器和生成器。
+
 ### 15.4.4 一个通用的Generator
 下面的程序可以为任何类构造一个Generator，只要该类具有默认的构造器。为了减少类型声明，它提供了一个泛型方法。用以生成BasicGenerator：
 ```java
@@ -175,6 +177,7 @@ public class BasicGenerator<T> implements Generator<T> {
 (1)它必须声明为public,(因为BasicGenerator与要处理的类在不同的包中，所以该类必须声明为public，并且不只具有包内访问权限.)
 (2)它必须具备默认的构造器（无参数的构造器）。要创建这样的BasicGenerator对象，只需调用create()方法，并传入想要生成的类型。泛型化的create()方法允许执行BasicGenerator.create(MyType.class),而不必执行麻烦的new BasicGenerator<MyType>(MyType.class)。
 例如，下面是一个具有默认构造器的简单的类：
+
 ```java
 //: generics/CountedObject.java
 public class CountedObject {
@@ -268,6 +271,7 @@ public class TupleTest2 {
 *///:~
 ```
 > 注意，方法f()返回一个参数化的TwoTuple对象，而f2()返回的是非参数化的TwoTuple对象。在这个例子中，编译器井没有关于f2()的警告信息，因为我们井没有将其返回值作为参数化对象使用。在某种意义上，它被“向上转型’为一个非参数化的TwoTuple.然而，如果试图将f2()的返回值转型为参数化的TwoTuple,编译器就会发出警告。
+
 ### 15.4.6 一个Set实用工具
 作为泛型方法的另一个示例，我们看看如何用Set来表达数学中的关系式。通过使用泛型方法，可以很方便地做到这一点，而且可以应用于多种类型:
 ```java
@@ -302,6 +306,7 @@ public class Sets {
 > 在前三个方法中，都将第一个参数Set复制了一份，将Set中的所有引用都存人一个新的HashSet对象中，因此，我们并未直接修改参数中的Set,返回的值是一个全新的set对象。
 这四个方法表达了如下的数学集合操作:union()返回一个Set,它将两个参数合并在一起；intersection()返回的Set只包含两个参数共有的部分。difference()方法从superset中移除subset包含的元素；complement()返回的Set包含除了交集之外的所有元素。下面提供了一个enum，它包
 含各种水彩画的颜色。我们将用它来演示以上这些方法的功能和效果。
+
 ```java
 //: generics/watercolors/Watercolors.java
 package generics.watercolors;
