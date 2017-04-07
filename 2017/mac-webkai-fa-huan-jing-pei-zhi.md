@@ -106,7 +106,7 @@ Could not calculate build plan: Plugin org.apache.maven.plugins:maven-resources-
 
 2、然后将.m2/repository/org/apache/maven/plugins目录下的文件夹全部删除
 
-3、选中maven项目，右键--》maven--》update让maven重新下载依赖包
+3、选中maven项目，右键 --&gt; maven --&gt; update，让maven重新下载依赖包
 
 > 注：此IDE自带maven插件，不需要再自己下载安装maven插件
 
