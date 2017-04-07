@@ -23,4 +23,5 @@
 * [Java编程思想 第4版](javabian-cheng-si-xiang-di-4-ban.md)
   * [第15章 泛型](javabian-cheng-si-xiang-di-4-ban/di-15-zhang-fan-xing.md)
     * [15.1 与C++的比较](javabian-cheng-si-xiang-di-4-ban/di-15-zhang-fan-xing/151-yu-c-de-bi-jiao.md)
+    * [15.2 简单泛型](javabian-cheng-si-xiang-di-4-ban/di-15-zhang-fan-xing/152-jian-dan-fan-xing.md)
 
