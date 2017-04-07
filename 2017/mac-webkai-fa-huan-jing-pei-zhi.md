@@ -92,6 +92,15 @@ $zkCli
 Connecting to localhost:2181
 ```
 
+停止服务
+
+```
+$ zkServer stop
+ZooKeeper JMX enabled by default
+Using config: /usr/local/etc/zookeeper/zoo.cfg
+Stopping zookeeper ... STOPPED
+```
+
 # 安装邮件服务 James server
 
 ```
