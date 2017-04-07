@@ -73,6 +73,25 @@ source ~/.bash_profile
 subl ~/.bash_profile
 ```
 
+# 安装zookeeper
+
+```
+$brew install zookeeper
+```
+
+启动服务
+
+```
+$zkServer
+```
+
+查看zookeeper运行及状态
+
+```
+$zkCli
+Connecting to localhost:2181
+```
+
 # 安装邮件服务 James server
 
 ```
