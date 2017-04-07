@@ -1,5 +1,7 @@
 # 
 
+# Java中的volatile关键字
+
 # 一、Java内存模型
 
 想要理解volatile为什么能确保可见性，就要先理解Java中的内存模型是什么样的。
