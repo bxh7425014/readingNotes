@@ -266,27 +266,27 @@ stop = true;
 
 ```
 public class Test {
-	public volatile int inc = 0;
+    public volatile int inc = 0;
 
-	public void increase() {
-		inc++;
-	}
+    public void increase() {
+        inc++;
+    }
 
-	public static void main(String[] args) {
-		final Test test = new Test();
-		for (int i = 0; i < 10; i++) {
-			new Thread() {
-				public void run() {
-					for (int j = 0; j < 1000; j++)
-						test.increase();
-				};
-			}.start();
-		}
-		while (Thread.activeCount() > 1)
-			// 保证前面的线程都执行完
-			Thread.yield();
-		System.out.println(test.inc);
-	}
+    public static void main(String[] args) {
+        final Test test = new Test();
+        for (int i = 0; i < 10; i++) {
+            new Thread() {
+                public void run() {
+                    for (int j = 0; j < 1000; j++)
+                        test.increase();
+                };
+            }.start();
+        }
+        while (Thread.activeCount() > 1)
+            // 保证前面的线程都执行完
+            Thread.yield();
+        System.out.println(test.inc);
+    }
 }
 ```
 
@@ -348,28 +348,28 @@ y = -1;
 那么我们回到前面举的一个例子：
 
 ```
-	// 线程1:
+    // 线程1:
 
-	context=
-	loadContext();
+    context=
+    loadContext();
 
-	// 语句1
+    // 语句1
 
-	inited=true;
+    inited=true;
 
-	// 语句2
+    // 语句2
 
-	// 线程2:
+    // 线程2:
 
-	while(!inited)
+    while(!inited)
 
-	{
+    {
 
-	sleep()
+    sleep()
 
-	}
+    }
 
-	doSomethingwithconfig(context);
+    doSomethingwithconfig(context);
 ```
 
 前面举这个例子的时候，提到有可能语句2会在语句1之前执行，那么久可能导致context还没被初始化，而线程2中就使用未初始化的context去进行操作，导致程序出错。
@@ -416,34 +416,33 @@ flag = true;
 
 根据状态标记，终止线程。
 
-  2. 单例模式中的double check
+1. 单例模式中的double check
 
 ```
 class Singleton {
 
-	private volatile static Singleton instance = null;
+    private volatile static Singleton instance = null;
 
-	private Singleton() {
+    private Singleton() {
 
-	}
+    }
 
-	public static Singleton getInstance() {
+    public static Singleton getInstance() {
 
-		if (instance == null) {
+        if (instance == null) {
+            synchronized (Singleton.class) {
 
-			synchronized (Singleton.class) {
+                if (instance == null)
 
-				if (instance == null)
+                    instance = new Singleton();
 
-					instance = new Singleton();
+            }
 
-			}
+        }
 
-		}
+        return instance;
 
-		return instance;
-
-	}
+    }
 
 }
 ```
