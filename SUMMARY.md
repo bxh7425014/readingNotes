@@ -20,4 +20,6 @@
 * [得到笔记](de-dao-bi-ji.md)
   * [为什么苹果公司效率更高](de-dao-bi-ji/wei-shi-yao-ping-guo-gong-si-xiao-lv-geng-gao.md)
   * [为什么努力换不来进步](de-dao-bi-ji/wei-shi-yao-nu-li-huan-bu-lai-jin-bu.md)
+* [Java编程思想 第4版](javabian-cheng-si-xiang-di-4-ban.md)
+  * [第15章 泛型](javabian-cheng-si-xiang-di-4-ban/di-15-zhang-fan-xing.md)
 
