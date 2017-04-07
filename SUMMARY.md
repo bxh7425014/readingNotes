@@ -12,6 +12,7 @@
   * [软件开发如何规避时间碎片化的坑](2016/ruan-jian-kai-fa-ru-he-gui-bi-shi-jian-sui-pian-hua-de-keng.md)
   * [如何“有效地一对一会谈”](2016/ru-he-201c-you-xiao-di-yi-dui-yi-hui-tan.md)
   * [对OKRs粗浅的理解](2016/dui-okrs-cu-qian-de-li-jie.md)
+  * [主动做事](2016/zhu-dong-zuo-shi.md)
 * [2015](2015.md)
 * [算法精解：C语言描述](suan-fa-jing-jie-ff1a-c-yu-yan-miao-shu.md)
   * [第1章 概述](suan-fa-jing-jie-ff1a-c-yu-yan-miao-shu/di-1-zhang-gai-shu.md)
