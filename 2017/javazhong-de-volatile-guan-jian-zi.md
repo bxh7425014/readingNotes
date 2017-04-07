@@ -473,3 +473,5 @@ class Singleton {
 
 [http://keiwu.me/2016/04/28/Volatile的实现原理/](http://keiwu.me/2016/04/28/Volatile的实现原理/)
 
+![](/assets/qrcode_for_gh_d18f04999bdb_430.jpg)
+
