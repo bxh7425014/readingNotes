@@ -10,12 +10,11 @@
   * [OSChina git 代码fork及PR指南](2017/oschina-git-dai-ma-fork-ji-pr-zhi-nan.md)
 * [2016](2016.md)
   * [软件开发如何规避时间碎片化的坑](2016/ruan-jian-kai-fa-ru-he-gui-bi-shi-jian-sui-pian-hua-de-keng.md)
-  * 如何“有效地一对一会谈
+  * [如何“有效地一对一会谈”](2016/ru-he-201c-you-xiao-di-yi-dui-yi-hui-tan.md)
 * [2015](2015.md)
 * [算法精解：C语言描述](suan-fa-jing-jie-ff1a-c-yu-yan-miao-shu.md)
   * [第1章 概述](suan-fa-jing-jie-ff1a-c-yu-yan-miao-shu/di-1-zhang-gai-shu.md)
   * [第2章 指针操作](suan-fa-jing-jie-ff1a-c-yu-yan-miao-shu/di-2-zhang-zhi-zhen-cao-zuo.md)
 * [得到笔记](de-dao-bi-ji.md)
   * [为什么苹果公司效率更高](de-dao-bi-ji/wei-shi-yao-ping-guo-gong-si-xiao-lv-geng-gao.md)
-
 
