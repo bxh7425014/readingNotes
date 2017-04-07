@@ -30,7 +30,7 @@
 
 不过，书里也说，个人才能虽然非常重要，但它不可能将一个公司变成明星企业。**我们可以尽量去模仿那些高效能人士的习惯，不过，跟一个组织比起来，个人能做的还是微不足道。所以，那些表现优异的公司，更加重视集体能力，而不是个人能力。**
 
-以上内容，供你参考。
+> 本文源自：《快公司》网站（Why Employees At Apple And Google Are More Productive）
 
-本文源自：《快公司》网站（Why Employees At Apple And Google Are More Productive）
+
 
