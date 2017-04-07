@@ -30,4 +30,5 @@
     * [15.6 构建复杂模型](javabian-cheng-si-xiang-di-4-ban/di-15-zhang-fan-xing/156-gou-jian-fu-za-mo-xing.md)
     * [15.7 擦除的神秘之处](javabian-cheng-si-xiang-di-4-ban/di-15-zhang-fan-xing/157-ca-chu-de-shen-mi-zhi-chu.md)
     * [15.8 擦除的补偿](javabian-cheng-si-xiang-di-4-ban/di-15-zhang-fan-xing/158-ca-chu-de-bu-chang.md)
+    * [15.9 边界](javabian-cheng-si-xiang-di-4-ban/di-15-zhang-fan-xing/159-bian-jie.md)
 
