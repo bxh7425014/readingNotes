@@ -94,7 +94,7 @@ $ /usr/local/Cellar/maven/3.3.9
 
 # Fix problems
 
-报错：
+maven报错：
 
 ```
 Could not calculate build plan: Plugin org.apache.maven.plugins:maven-resources-plugin:2.6 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.apache.maven.plugins:maven-resources-plugin:jar:2.6
