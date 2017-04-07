@@ -28,4 +28,5 @@
     * [15.4 泛型方法](javabian-cheng-si-xiang-di-4-ban/di-15-zhang-fan-xing/154-fan-xing-fang-fa.md)
     * [15.5 匿名内部类](javabian-cheng-si-xiang-di-4-ban/di-15-zhang-fan-xing/155-ni-ming-nei-bu-lei.md)
     * [15.6 构建复杂模型](javabian-cheng-si-xiang-di-4-ban/di-15-zhang-fan-xing/156-gou-jian-fu-za-mo-xing.md)
+    * [15.7 擦除的神秘之处](javabian-cheng-si-xiang-di-4-ban/di-15-zhang-fan-xing/157-ca-chu-de-shen-mi-zhi-chu.md)
 
