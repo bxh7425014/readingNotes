@@ -27,4 +27,5 @@
     * [15.3 泛型接口](javabian-cheng-si-xiang-di-4-ban/di-15-zhang-fan-xing/153-fan-xing-jie-kou.md)
     * [15.4 泛型方法](javabian-cheng-si-xiang-di-4-ban/di-15-zhang-fan-xing/154-fan-xing-fang-fa.md)
     * [15.5 匿名内部类](javabian-cheng-si-xiang-di-4-ban/di-15-zhang-fan-xing/155-ni-ming-nei-bu-lei.md)
+    * [15.6 构建复杂模型](javabian-cheng-si-xiang-di-4-ban/di-15-zhang-fan-xing/156-gou-jian-fu-za-mo-xing.md)
 
