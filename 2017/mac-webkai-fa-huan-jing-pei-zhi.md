@@ -92,3 +92,23 @@ $ brew install maven
 $ /usr/local/Cellar/maven/3.3.9
 ```
 
+# Fix problems
+
+报错：
+
+```
+Could not calculate build plan: Plugin org.apache.maven.plugins:maven-resources-plugin:2.6 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.apache.maven.plugins:maven-resources-plugin:jar:2.6
+```
+
+解决方法：
+
+1、查看windows -&gt; Preferences -&gt; maven 的settings.xml文件中.m2的位置
+
+2、然后将.m2/repository/org/apache/maven/plugins目录下的文件夹全部删除
+
+3、选中maven项目，右键--》maven--》update让maven重新下载依赖包
+
+> 注：此IDE自带maven插件，不需要再自己下载安装maven插件
+
+
+
