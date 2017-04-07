@@ -91,6 +91,11 @@ Starting zookeeper ... STARTED
 查看zookeeper运行及状态
 
 ```
+
+$ zkServer status
+ZooKeeper JMX enabled by default
+Using config: /usr/local/etc/zookeeper/zoo.cfg
+Mode: standalone
 $zkCli
 Connecting to localhost:2181
 ```
