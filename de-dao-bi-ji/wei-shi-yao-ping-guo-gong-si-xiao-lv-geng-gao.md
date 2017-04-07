@@ -32,5 +32,5 @@
 
 > 本文源自：《快公司》网站（Why Employees At Apple And Google Are More Productive）
 
-
+![](/assets/qrcode_for_gh_d18f04999bdb_430.jpg)
 
