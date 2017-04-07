@@ -17,4 +17,5 @@
   * [第2章 指针操作](suan-fa-jing-jie-ff1a-c-yu-yan-miao-shu/di-2-zhang-zhi-zhen-cao-zuo.md)
 * [得到笔记](de-dao-bi-ji.md)
   * [为什么苹果公司效率更高](de-dao-bi-ji/wei-shi-yao-ping-guo-gong-si-xiao-lv-geng-gao.md)
+  * [为什么努力换不来进步](de-dao-bi-ji/wei-shi-yao-nu-li-huan-bu-lai-jin-bu.md)
 
