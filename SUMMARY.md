@@ -4,6 +4,8 @@
 * [得到杂记](de-dao-bi-ji.md)
   * [为什么苹果公司效率更高](de-dao-bi-ji/wei-shi-yao-ping-guo-gong-si-xiao-lv-geng-gao.md)
   * [为什么努力换不来进步](de-dao-bi-ji/wei-shi-yao-nu-li-huan-bu-lai-jin-bu.md)
+  * 2017
+  * 2016
 * [技术杂记](ji-zhu-za-ji.md)
   * [JSP](ji-zhu-za-ji/jsp.md)
     * [内置对象](ji-zhu-za-ji/jsp/nei-zhi-dui-xiang.md)
@@ -29,7 +31,6 @@
       * [15.11 问题](javabian-cheng-si-xiang-di-4-ban/di-15-zhang-fan-xing/1511-wen-ti.md)
 * [时光阡陌](shi-guang-qian-mo.md)
   * [2017](2017.md)
-
     * [算法实现Java版](2017/suan-fa-shi-xian-java-ban.md)
       * [求最小公倍数+最大公约数](2017/suan-fa-shi-xian-java-ban/qiu-zui-xiao-gong-bei-6570+-zui-da-gong-yue-shu.md)
       * [分解质因数](2017/suan-fa-shi-xian-java-ban/fen-jie-zhi-yin-shu.md)
