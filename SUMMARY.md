@@ -85,6 +85,7 @@
     * [2016-6-14 端午节日小记](shi-guang-qian-mo/2016/2016-6-14duan-wu-jie-ri-xiao-ji.md)
     * [2016-6-19 没有什么不同](shi-guang-qian-mo/2016/2016-6-19-mei-you-shi-yao-bu-tong.md)
     * [2016-4-23 游太平记](shi-guang-qian-mo/2016/2016-4-23-you-tai-ping-ji.md)
+    * [2016-01-14 团队协作利器](shi-guang-qian-mo/2016/2016-01-14-tuan-dui-xie-zuo-li-qi.md)
   * [2017](2017.md)
     * [清明时节](shi-guang-qian-mo/2017/qing-ming-shi-jie.md)
   * [2015](2015.md)
