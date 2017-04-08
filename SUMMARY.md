@@ -34,6 +34,8 @@
   * [算法精解：C语言描述](du-shu-za-ji/suan-fa-jing-jie-ff1a-c-yu-yan-miao-shu.md)
     * [第1章 概述](du-shu-za-ji/suan-fa-jing-jie-ff1a-c-yu-yan-miao-shu/di-1-zhang-gai-shu.md)
     * [第2章 指针操作](du-shu-za-ji/suan-fa-jing-jie-ff1a-c-yu-yan-miao-shu/di-2-zhang-zhi-zhen-cao-zuo.md)
+  * 空谷幽兰
+    * [第六章 登天之道](du-shu-za-ji/di-liu-zhang-deng-tian-zhi-dao.md)
 * [技术杂记](ji-shu-za-ji.md)
   * [Git](ji-shu-za-ji/git.md)
     * [OSChina git 代码fork及PR指南](ji-shu-za-ji/git/oschina-git-dai-ma-fork-ji-pr-zhi-nan.md)
