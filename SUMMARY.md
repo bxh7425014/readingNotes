@@ -50,6 +50,7 @@
   * [Git](ji-shu-za-ji/git.md)
     * [OSChina git 代码fork及PR指南](ji-shu-za-ji/git/oschina-git-dai-ma-fork-ji-pr-zhi-nan.md)
     * [git代码仓库的迁移](ji-shu-za-ji/git/gitdai-ma-cang-ku-de-qian-yi.md)
+    * [git常用命令](ji-shu-za-ji/git/gitchang-yong-ming-ling.md)
   * [Java](ji-shu-za-ji/java.md)
     * [Java中的volatile关键字](ji-shu-za-ji/java/javazhong-de-volatile-guan-jian-zi.md)
   * [JSP](ji-shu-za-ji/jsp.md)
