@@ -82,6 +82,7 @@
     * [在Launcher的固定View上添加Widget](ji-shu-za-ji/zai-launcher-degu-ding-view-shang-tian-jia-widget.md)
     * [Android Log使用心得](ji-shu-za-ji/android-logshi-yong-xin-de.md)
     * [Android Drawable图像转换](ji-shu-za-ji/android-drawabletu-xiang-zhuan-huan.md)
+    * [Android Theme主题使用心得](ji-shu-za-ji/android-themezhu-ti-shi-yong-xin-de.md)
   * [Others](ji-shu-za-ji/others.md)
     * [Sublime Text + Graphviz + Dot = 有向图](ji-shu-za-ji/sublime-text-+-graphviz-+-dot-you-xiang-tu.md)
     * [\[转\] 如何搭建一个属于自己的直播平台](ji-shu-za-ji/8f6c5d-ru-he-da-jian-yi-ge-shu-yu-zi-ji-de-zhi-bo-ping-tai.md)
