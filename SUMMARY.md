@@ -9,7 +9,7 @@
     * [内置对象](ji-zhu-za-ji/jsp/nei-zhi-dui-xiang.md)
   * [Git](ji-zhu-za-ji/git.md)
   * [Web](ji-zhu-za-ji/web.md)
-    * [Mac Web开发环境配置](2017/mac-webkai-fa-huan-jing-pei-zhi.md)
+    * [Mac Web开发环境配置](web/mac-webkai-fa-huan-jing-pei-zhi.md)
 * [读书杂记](du-shu-za-ji.md)
   * [算法精解：C语言描述](suan-fa-jing-jie-ff1a-c-yu-yan-miao-shu.md)
     * [第1章 概述](suan-fa-jing-jie-ff1a-c-yu-yan-miao-shu/di-1-zhang-gai-shu.md)
