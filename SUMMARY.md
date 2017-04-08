@@ -79,6 +79,7 @@
     * [Android手动缓存js，css和浏览器默认缓存的优劣势对比](ji-shu-za-ji/androidshou-dong-huan-cun-js-css-he-liu-lan-qi-mo-ren-huan-cun-de-you-lie-shi-dui-bi.md)
     * [AndroidApk签名总结](ji-shu-za-ji/androidapkqian-ming-zong-jie.md)
     * [在Launcher的固定View上添加Widget](ji-shu-za-ji/zai-launcher-degu-ding-view-shang-tian-jia-widget.md)
+    * [Android Log使用心得](ji-shu-za-ji/android-logshi-yong-xin-de.md)
   * Others
     * [Sublime Text + Graphviz + Dot = 有向图](ji-shu-za-ji/sublime-text-+-graphviz-+-dot-you-xiang-tu.md)
     * [\[转\] 如何搭建一个属于自己的直播平台](ji-shu-za-ji/8f6c5d-ru-he-da-jian-yi-ge-shu-yu-zi-ji-de-zhi-bo-ping-tai.md)
