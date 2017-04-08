@@ -15,6 +15,7 @@
     * [2016-1-28 图像压缩技术 Lena](de-dao-za-ji/2016/2016-1-28-tu-xiang-yasuo-ji-zhu-lena.md)
     * [2016-4-25 软件模块的3项职责](de-dao-za-ji/2016/2016-4-25-ruan-jian-mo-kuai-de-3-xiang-zhi-ze.md)
     * [十大创新技术2016](de-dao-za-ji/2016/shi-da-chuang-xin-ji-zhu-2016.md)
+    * [樊登速读-重新定义公司](de-dao-za-ji/2016/fan-deng-su-8bfb-zhong-xin-ding-yi-gong-si.md)
   * [2017](de-dao-za-ji/2017.md)
     * [为什么苹果公司效率更高](de-dao-za-ji/2017/wei-shi-yao-ping-guo-gong-si-xiao-lv-geng-gao.md)
     * [为什么努力换不来进步](de-dao-za-ji/2017/wei-shi-yao-nu-li-huan-bu-lai-jin-bu.md)
