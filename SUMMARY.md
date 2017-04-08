@@ -63,6 +63,7 @@
   * Android
     * [\[Nipuream\]-Android抽奖转盘的实现](ji-shu-za-ji/nipuream-androidchou-jiang-zhuan-pan-de-shi-xian.md)
     * [Android-Studio编译问题](ji-shu-za-ji/android-studiobian-yi-wen-ti.md)
+    * [\[转\]自定义LyricView实现歌词显示控件](ji-shu-za-ji/8f6c5d-zi-ding-yi-lyricview-shi-xian-ge-ci-xian-shi-kong-jian.md)
   * Others
     * [Sublime Text + Graphviz + Dot = 有向图](ji-shu-za-ji/sublime-text-+-graphviz-+-dot-you-xiang-tu.md)
 * [时光阡陌](shi-guang-qian-mo.md)
