@@ -42,4 +42,4 @@ Success is not final, failure is not fatal: it is the courage to continue that c
 ![桃花盛开](http://upload-images.jianshu.io/upload_images/1124873-6467188c938a2ecb.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ---
-![一一小知](http://upload-images.jianshu.io/upload_images/1124873-644d591886e16dde.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![一一小知](http://upload-images.jianshu.io/upload_images/1124873-00b46f6aa1850e54.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
