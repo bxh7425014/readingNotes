@@ -124,6 +124,7 @@
     * [2015-12-20 躲猫猫](shi-guang-qian-mo/2015/2015-12-20-duo-mao-mao.md)
     * [2015-11-06 定](shi-guang-qian-mo/2015/2015-11-06-ding.md)
     * [2015-11-02 找工作的机缘](shi-guang-qian-mo/2015/2015-11-02-zhao-gong-zuo-de-ji-yuan.md)
+    * [2015-08-09 兰州白塔山](shi-guang-qian-mo/2015/2015-08-09-lan-zhou-bai-ta-shan.md)
   * [2010](shi-guang-qian-mo/2010.md)
     * [2010-05-13](shi-guang-qian-mo/2010/2010-05-13.md)
     * [应聘HW海外技术支持准备的英文简历](shi-guang-qian-mo/2010/ying-pin-hw-hai-wai-ji-zhu-zhi-chi-zhun-bei-de-ying-wen-jian-li.md)
