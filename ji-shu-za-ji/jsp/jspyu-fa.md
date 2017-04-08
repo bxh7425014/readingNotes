@@ -1,5 +1,4 @@
 JSP语法
-  [**加入“小知”Tower协作团队**](https://tower.im/join?t=88d51c53a588ec7235a3089cbe94df76)
 
 # 1. JSP页面基本构成
 
