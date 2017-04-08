@@ -40,4 +40,7 @@
     * [15.9 边界](javabian-cheng-si-xiang-di-4-ban/di-15-zhang-fan-xing/159-bian-jie.md)
     * [15.10 通配符](javabian-cheng-si-xiang-di-4-ban/di-15-zhang-fan-xing/1510-tong-pei-fu.md)
     * [15.11 问题](javabian-cheng-si-xiang-di-4-ban/di-15-zhang-fan-xing/1511-wen-ti.md)
+* [技术杂记](ji-zhu-za-ji.md)
+  * [JSP](ji-zhu-za-ji/jsp.md)
+    * [内置对象](ji-zhu-za-ji/jsp/nei-zhi-dui-xiang.md)
 
