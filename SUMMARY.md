@@ -57,6 +57,8 @@
     * [分解质因数](ji-shu-za-ji/suan-fa/fen-jie-zhi-yin-shu.md)
   * [Web](ji-shu-za-ji/web.md)
     * [Mac Web开发环境配置](ji-shu-za-ji/web/mac-webkai-fa-huan-jing-pei-zhi.md)
+  * Android
+    * [\[Nipuream\]-Android抽奖转盘的实现](ji-shu-za-ji/nipuream-androidchou-jiang-zhuan-pan-de-shi-xian.md)
 * [时光阡陌](shi-guang-qian-mo.md)
   * [2016](2016.md)
     * [2016-1-10 招商银行销卡琐事](shi-guang-qian-mo/2016/2016-1-10-zhao-shang-yin-xing-xiao-qia-suo-shi.md)
