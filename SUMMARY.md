@@ -74,6 +74,7 @@
     * [判断图片的色调\(黑色还是白色\)](ji-shu-za-ji/pan-duan-tu-pian-de-se-8c0328-hei-se-huan-shi-bai-827229.md)
     * [获取Android已安装的app信息](ji-shu-za-ji/huo-qu-android-yi-an-zhuang-de-app-xin-xi.md)
     * [常用adb命令示例](ji-shu-za-ji/chang-yong-adb-ming-ling-shi-li.md)
+    * [Viewpager加载多个Fragment，并设置Title](ji-shu-za-ji/viewpagerjia-zai-duo-ge-fragment-ff0c-bing-she-zhi-title.md)
   * Others
     * [Sublime Text + Graphviz + Dot = 有向图](ji-shu-za-ji/sublime-text-+-graphviz-+-dot-you-xiang-tu.md)
     * [\[转\] 如何搭建一个属于自己的直播平台](ji-shu-za-ji/8f6c5d-ru-he-da-jian-yi-ge-shu-yu-zi-ji-de-zhi-bo-ping-tai.md)
