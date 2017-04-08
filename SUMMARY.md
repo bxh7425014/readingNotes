@@ -81,6 +81,8 @@
     * [如何安装任意来源的应用](ji-shu-za-ji/ru-he-an-zhuang-ren-yi-lai-yuan-de-ying-yong.md)
   * [Linux](ji-shu-za-ji/linux.md)
     * [ubuntu服务器环境搭建](ji-shu-za-ji/linux/ubuntufu-wu-qi-huan-jing-da-jian.md)
+  * [设计模式](ji-shu-za-ji/she-ji-mo-shi.md)
+    * [工厂模式](ji-shu-za-ji/she-ji-mo-shi/gong-chang-mo-shi.md)
 * [时光阡陌](shi-guang-qian-mo.md)
   * [2016](2016.md)
     * [2016-1-10 招商银行销卡琐事](shi-guang-qian-mo/2016/2016-1-10-zhao-shang-yin-xing-xiao-qia-suo-shi.md)
