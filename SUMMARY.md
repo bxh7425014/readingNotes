@@ -14,6 +14,7 @@
   * [对OKRs粗浅的理解](2016/dui-okrs-cu-qian-de-li-jie.md)
   * [主动做事](2016/zhu-dong-zuo-shi.md)
 * [2015](2015.md)
+  * [2015-12-18 公司高速发展是对团队最好的管理](2015/2015-12-18-gong-si-gao-su-fa-zhan-shi-dui-tuan-dui-zui-hao-de-guan-li.md)
 * [算法精解：C语言描述](suan-fa-jing-jie-ff1a-c-yu-yan-miao-shu.md)
   * [第1章 概述](suan-fa-jing-jie-ff1a-c-yu-yan-miao-shu/di-1-zhang-gai-shu.md)
   * [第2章 指针操作](suan-fa-jing-jie-ff1a-c-yu-yan-miao-shu/di-2-zhang-zhi-zhen-cao-zuo.md)
