@@ -122,6 +122,7 @@
     * [2015-03-19 飞思一下丁香医生](shi-guang-qian-mo/2015/2015-03-19-fei-si-yi-xia-ding-xiang-yi-sheng.md)
   * [2010](shi-guang-qian-mo/2010.md)
     * [2010-05-13](shi-guang-qian-mo/2010/2010-05-13.md)
+    * [应聘HW海外技术支持准备的英文简历](shi-guang-qian-mo/2010/ying-pin-hw-hai-wai-ji-zhu-zhi-chi-zhun-bei-de-ying-wen-jian-li.md)
   * [2008](shi-guang-qian-mo/2008.md)
     * [2008-09-13- 彭思富的《中秋致意》](shi-guang-qian-mo/2008/2008-09-13-peng-si-fu-de-300a-zhong-qiu-zhi-yi-300b.md)
     * [2008-12-03 影子](shi-guang-qian-mo/2008/2008-12-03-ying-zi.md)
