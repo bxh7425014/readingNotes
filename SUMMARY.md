@@ -75,6 +75,7 @@
     * [获取Android已安装的app信息](ji-shu-za-ji/huo-qu-android-yi-an-zhuang-de-app-xin-xi.md)
     * [常用adb命令示例](ji-shu-za-ji/chang-yong-adb-ming-ling-shi-li.md)
     * [Viewpager加载多个Fragment，并设置Title](ji-shu-za-ji/viewpagerjia-zai-duo-ge-fragment-ff0c-bing-she-zhi-title.md)
+    * [Android中Java和JavaScript交互实例](ji-shu-za-ji/androidzhong-javahe-javascript-jiao-hu-shi-li.md)
   * Others
     * [Sublime Text + Graphviz + Dot = 有向图](ji-shu-za-ji/sublime-text-+-graphviz-+-dot-you-xiang-tu.md)
     * [\[转\] 如何搭建一个属于自己的直播平台](ji-shu-za-ji/8f6c5d-ru-he-da-jian-yi-ge-shu-yu-zi-ji-de-zhi-bo-ping-tai.md)
