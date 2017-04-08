@@ -82,4 +82,5 @@
     * [清明时节](shi-guang-qian-mo/2017/qing-ming-shi-jie.md)
   * [2015](2015.md)
     * [2015-11 自由的空气](2015/2015-11-zi-you-de-kong-qi.md)
+    * [2015-11-15 情绪](2015/2015-11-15-qing-xu.md)
 
