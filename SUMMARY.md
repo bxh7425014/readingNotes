@@ -120,6 +120,7 @@
     * [2015-11-11 爱](shi-guang-qian-mo/2015/2015-11-11-ai.md)
     * [201510 面试会计准备的问题](shi-guang-qian-mo/2015/201510-mian-shi-hui-ji-zhun-bei-de-wen-ti.md)
     * [2015-03-19 飞思一下丁香医生](shi-guang-qian-mo/2015/2015-03-19-fei-si-yi-xia-ding-xiang-yi-sheng.md)
+    * [2015-12-20 马嵬驿](shi-guang-qian-mo/2015/2015-12-20-ma-wei-yi.md)
   * [2010](shi-guang-qian-mo/2010.md)
     * [2010-05-13](shi-guang-qian-mo/2010/2010-05-13.md)
     * [应聘HW海外技术支持准备的英文简历](shi-guang-qian-mo/2010/ying-pin-hw-hai-wai-ji-zhu-zhi-chi-zhun-bei-de-ying-wen-jian-li.md)
