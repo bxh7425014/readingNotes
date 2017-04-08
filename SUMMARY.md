@@ -43,4 +43,5 @@
 * [技术杂记](ji-zhu-za-ji.md)
   * [JSP](ji-zhu-za-ji/jsp.md)
     * [内置对象](ji-zhu-za-ji/jsp/nei-zhi-dui-xiang.md)
+  * [Git](ji-zhu-za-ji/git.md)
 
