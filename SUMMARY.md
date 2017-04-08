@@ -108,6 +108,7 @@
     * [2016-4-23 游太平记](shi-guang-qian-mo/2016/2016-4-23-you-tai-ping-ji.md)
     * [2016-01-14 团队协作利器](shi-guang-qian-mo/2016/2016-01-14-tuan-dui-xie-zuo-li-qi.md)
     * [2016-1-5 至美之物，永不凋零](shi-guang-qian-mo/2016/2016-1-5-zhi-mei-zhi-wu-ff0c-yong-bu-diao-ling.md)
+    * [小家伙的趣事](shi-guang-qian-mo/2016/xiao-jia-huo-de-qu-shi.md)
   * [2017](shi-guang-qian-mo/2017.md)
     * [清明时节](shi-guang-qian-mo/2017/qing-ming-shi-jie.md)
   * [2015](shi-guang-qian-mo/2015.md)
