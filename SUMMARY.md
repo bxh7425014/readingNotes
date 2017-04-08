@@ -1,11 +1,14 @@
 # Summary
 
 * [Introduction](README.md)
-* [得到杂记](de-dao-bi-ji.md)
-  * [为什么苹果公司效率更高](de-dao-bi-ji/wei-shi-yao-ping-guo-gong-si-xiao-lv-geng-gao.md)
-  * [为什么努力换不来进步](de-dao-bi-ji/wei-shi-yao-nu-li-huan-bu-lai-jin-bu.md)
-  * 2017
+* [得到杂记](de-dao-za-ji.md)
+  * [2017](de-dao-za-ji/2017.md)
+    * [为什么苹果公司效率更高](de-dao-bi-ji/wei-shi-yao-ping-guo-gong-si-xiao-lv-geng-gao.md)
+    * [为什么努力换不来进步](de-dao-bi-ji/wei-shi-yao-nu-li-huan-bu-lai-jin-bu.md)
   * 2016
+  * [2015](2015.md)
+    * [2015-12-18 公司高速发展是对团队最好的管理](2015/2015-12-18-gong-si-gao-su-fa-zhan-shi-dui-tuan-dui-zui-hao-de-guan-li.md)
+
 * [技术杂记](ji-zhu-za-ji.md)
   * [JSP](ji-zhu-za-ji/jsp.md)
     * [内置对象](ji-zhu-za-ji/jsp/nei-zhi-dui-xiang.md)
@@ -36,8 +39,7 @@
       * [分解质因数](2017/suan-fa-shi-xian-java-ban/fen-jie-zhi-yin-shu.md)
     * [Java中的volatile关键字](2017/javazhong-de-volatile-guan-jian-zi.md)
     * [OSChina git 代码fork及PR指南](2017/oschina-git-dai-ma-fork-ji-pr-zhi-nan.md)
-  * [2015](2015.md)
-    * [2015-12-18 公司高速发展是对团队最好的管理](2015/2015-12-18-gong-si-gao-su-fa-zhan-shi-dui-tuan-dui-zui-hao-de-guan-li.md)
+  
   * [2016](2016.md)
     * [软件开发如何规避时间碎片化的坑](2016/ruan-jian-kai-fa-ru-he-gui-bi-shi-jian-sui-pian-hua-de-keng.md)
     * [如何“有效地一对一会谈”](2016/ru-he-201c-you-xiao-di-yi-dui-yi-hui-tan.md)
