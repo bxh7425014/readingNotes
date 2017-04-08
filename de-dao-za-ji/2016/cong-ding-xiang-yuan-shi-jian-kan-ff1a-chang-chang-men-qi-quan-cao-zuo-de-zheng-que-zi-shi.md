@@ -1,6 +1,6 @@
 [转]从丁香园事件看：厂长们期权操作的正确姿势
 
-[原文地址](http://mp.weixin.qq.com/s?__biz=MjM5ODIzNDQ3Mw==&mid=2649966025&idx=1&sn=1deb4bb4f522ab24f77ebdbf5edc10fa&scene=1&srcid=0902EwakGkSHCLYFGaQBTht7#rd) | [加入“小知”Tower协作团队](https://tower.im/join?t=88d51c53a588ec7235a3089cbe94df76)
+[原文地址](http://mp.weixin.qq.com/s?__biz=MjM5ODIzNDQ3Mw==&mid=2649966025&idx=1&sn=1deb4bb4f522ab24f77ebdbf5edc10fa&scene=1&srcid=0902EwakGkSHCLYFGaQBTht7#rd)
 
 丁香园和著名CTO冯大辉的期权事件引起了业界的广泛关注，而且在持续发酵中。希望整个事件会有一个好的结局，这样会给行业树立一个榜样，给期权重塑信誉，让期权真正发挥激励和留住员工的作用，让厂长们值得信赖和尊敬。之前，我们花了很多的篇幅告诉员工怎么合理争取和拥有期权。今天，讲讲作为厂长们怎么来合理操作和管理期权，让员工真正相信期权物有所值。
 
