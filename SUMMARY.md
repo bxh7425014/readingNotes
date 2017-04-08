@@ -67,7 +67,7 @@
     * [分解质因数](ji-shu-za-ji/suan-fa/fen-jie-zhi-yin-shu.md)
   * [Web](ji-shu-za-ji/web.md)
     * [Mac Web开发环境配置](ji-shu-za-ji/web/mac-webkai-fa-huan-jing-pei-zhi.md)
-  * Android
+  * [Android](ji-shu-za-ji/android.md)
     * [\[Nipuream\]-Android抽奖转盘的实现](ji-shu-za-ji/nipuream-androidchou-jiang-zhuan-pan-de-shi-xian.md)
     * [Android-Studio编译问题](ji-shu-za-ji/android-studiobian-yi-wen-ti.md)
     * [\[转\]自定义LyricView实现歌词显示控件](ji-shu-za-ji/8f6c5d-zi-ding-yi-lyricview-shi-xian-ge-ci-xian-shi-kong-jian.md)
