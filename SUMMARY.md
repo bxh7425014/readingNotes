@@ -4,6 +4,7 @@
 * [得到杂记](de-dao-za-ji.md)
   * [2015](2015.md)
     * [2015-12-18 公司高速发展是对团队最好的管理](de-dao-za-ji/2015/2015-12-18-gong-si-gao-su-fa-zhan-shi-dui-tuan-dui-zui-hao-de-guan-li.md)
+    * [敏捷宣言](de-dao-za-ji/2015/min-jie-xuan-yan.md)
   * [2016](de-dao-za-ji/2016.md)
     * [软件开发如何规避时间碎片化的坑](de-dao-za-ji/2016/ruan-jian-kai-fa-ru-he-gui-bi-shi-jian-sui-pian-hua-de-keng.md)
     * [如何“有效地一对一会谈”](de-dao-za-ji/2016/ru-he-201c-you-xiao-di-yi-dui-yi-hui-tan.md)
