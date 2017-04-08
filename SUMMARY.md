@@ -119,6 +119,7 @@
     * [2015-11-16 越过山丘](shi-guang-qian-mo/2015/2015-11-16-yue-guo-shan-qiu.md)
     * [2015-11-11 爱](shi-guang-qian-mo/2015/2015-11-11-ai.md)
     * [201510 面试会计准备的问题](shi-guang-qian-mo/2015/201510-mian-shi-hui-ji-zhun-bei-de-wen-ti.md)
+    * [2015-03-19 飞思一下丁香医生](shi-guang-qian-mo/2015/2015-03-19-fei-si-yi-xia-ding-xiang-yi-sheng.md)
   * [2010](shi-guang-qian-mo/2010.md)
     * [2010-05-13](shi-guang-qian-mo/2010/2010-05-13.md)
   * [2008](shi-guang-qian-mo/2008.md)
