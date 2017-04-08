@@ -60,6 +60,7 @@
     * [曲江海洋馆简游](shi-guang-qian-mo/2016/qu-jiang-hai-yang-guan-jian-you.md)
     * [2016-4-27 我眼中的“项目经理”](shi-guang-qian-mo/2016/2016-4-27-wo-yan-zhong-de-201c-xiang-mu-jing-li-201d.md)
     * [2016-6-14 端午节日小记](shi-guang-qian-mo/2016/2016-6-14duan-wu-jie-ri-xiao-ji.md)
+    * [2016-6-19 没有什么不同](shi-guang-qian-mo/2016/2016-6-19-mei-you-shi-yao-bu-tong.md)
   * [2017](2017.md)
     * [清明时节](shi-guang-qian-mo/2017/qing-ming-shi-jie.md)
 
