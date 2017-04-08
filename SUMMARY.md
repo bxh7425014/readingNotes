@@ -62,6 +62,7 @@
     * [Mac Web开发环境配置](ji-shu-za-ji/web/mac-webkai-fa-huan-jing-pei-zhi.md)
   * Android
     * [\[Nipuream\]-Android抽奖转盘的实现](ji-shu-za-ji/nipuream-androidchou-jiang-zhuan-pan-de-shi-xian.md)
+    * [Android-Studio编译问题](ji-shu-za-ji/android-studiobian-yi-wen-ti.md)
   * Others
     * [Sublime Text + Graphviz + Dot = 有向图](ji-shu-za-ji/sublime-text-+-graphviz-+-dot-you-xiang-tu.md)
 * [时光阡陌](shi-guang-qian-mo.md)
