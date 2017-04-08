@@ -81,6 +81,7 @@
     * [如何安装任意来源的应用](ji-shu-za-ji/ru-he-an-zhuang-ren-yi-lai-yuan-de-ying-yong.md)
   * [Linux](ji-shu-za-ji/linux.md)
     * [ubuntu服务器环境搭建](ji-shu-za-ji/linux/ubuntufu-wu-qi-huan-jing-da-jian.md)
+    * [Linux常用命令](ji-shu-za-ji/linux/linuxchang-yong-ming-ling.md)
   * [设计模式](ji-shu-za-ji/she-ji-mo-shi.md)
     * [工厂模式](ji-shu-za-ji/she-ji-mo-shi/gong-chang-mo-shi.md)
 * [时光阡陌](shi-guang-qian-mo.md)
