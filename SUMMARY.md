@@ -72,6 +72,7 @@
     * [\[原\]一个功能引导页面的实现思路（效果参考：美丽说app）](ji-shu-za-ji/539f5d-yi-ge-gong-neng-yin-dao-ye-mian-de-shi-xian-si-lu-ff08-xiao-guo-can-kao-ff1a-mei-li-shuo-app.md)
     * [判断图片的色调\(黑色还是白色\)](ji-shu-za-ji/pan-duan-tu-pian-de-se-8c0328-hei-se-huan-shi-bai-827229.md)
     * [获取Android已安装的app信息](ji-shu-za-ji/huo-qu-android-yi-an-zhuang-de-app-xin-xi.md)
+    * [常用adb命令示例](ji-shu-za-ji/chang-yong-adb-ming-ling-shi-li.md)
   * Others
     * [Sublime Text + Graphviz + Dot = 有向图](ji-shu-za-ji/sublime-text-+-graphviz-+-dot-you-xiang-tu.md)
     * [\[转\] 如何搭建一个属于自己的直播平台](ji-shu-za-ji/8f6c5d-ru-he-da-jian-yi-ge-shu-yu-zi-ji-de-zhi-bo-ping-tai.md)
