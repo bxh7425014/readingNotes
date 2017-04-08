@@ -5,7 +5,7 @@
   * [2017](de-dao-za-ji/2017.md)
     * [为什么苹果公司效率更高](de-dao-bi-ji/wei-shi-yao-ping-guo-gong-si-xiao-lv-geng-gao.md)
     * [为什么努力换不来进步](de-dao-bi-ji/wei-shi-yao-nu-li-huan-bu-lai-jin-bu.md)
-  * 2016
+  * [2016](de-dao-za-ji/2016.md)
   * [2015](2015.md)
     * [2015-12-18 公司高速发展是对团队最好的管理](2015/2015-12-18-gong-si-gao-su-fa-zhan-shi-dui-tuan-dui-zui-hao-de-guan-li.md)
 
