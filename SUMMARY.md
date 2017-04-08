@@ -53,6 +53,7 @@
     * [Java中的volatile关键字](ji-shu-za-ji/java/javazhong-de-volatile-guan-jian-zi.md)
   * [JSP](ji-shu-za-ji/jsp.md)
     * [内置对象](ji-shu-za-ji/jsp/nei-zhi-dui-xiang.md)
+    * [JSP语法](ji-shu-za-ji/jsp/jspyu-fa.md)
   * [算法](ji-shu-za-ji/suan-fa.md)
     * [求最小公倍数+最大公约数](ji-shu-za-ji/suan-fa/qiu-zui-xiao-gong-bei-6570+-zui-da-gong-yue-shu.md)
     * [分解质因数](ji-shu-za-ji/suan-fa/fen-jie-zhi-yin-shu.md)
