@@ -31,6 +31,7 @@
     * [为什么努力换不来进步](de-dao-za-ji/2017/wei-shi-yao-nu-li-huan-bu-lai-jin-bu.md)
     * [人生三论](de-dao-za-ji/2017/ren-sheng-san-lun.md)
     * [2017-2-9 贵族精神](de-dao-za-ji/2017/2017-2-9-gui-zu-jing-shen.md)
+    * [2017-2-10 要不要跳槽](de-dao-za-ji/2017/2017-2-10-yao-bu-yao-tiao-cao.md)
 * [读书杂记](du-shu-za-ji.md)
   * [Java编程思想 第4版](du-shu-za-ji/javabian-cheng-si-xiang-di-4-ban.md)
     * [第15章 泛型](du-shu-za-ji/javabian-cheng-si-xiang-di-4-ban/di-15-zhang-fan-xing.md)
