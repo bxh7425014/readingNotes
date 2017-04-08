@@ -57,6 +57,7 @@
     * [2016-1-16 纪录片Hunt](shi-guang-qian-mo/2016/2016-1-16-ji-lupian-hunt.md)
     * [2016-5-10 “深淘滩，低作堰”-华为公司的战略创新和机制创新](shi-guang-qian-mo/2016/2016-5-10-201c-shen-tao-tan-ff0c-di-zuo-yan-201d-hua-wei-gong-si-de-zhan-lve-chuang-xin-he-ji-zhi-chuang-xin.md)
     * [曲江海洋馆简游](shi-guang-qian-mo/2016/qu-jiang-hai-yang-guan-jian-you.md)
+    * [2016-4-27 我眼中的“项目经理”](shi-guang-qian-mo/2016/2016-4-27-wo-yan-zhong-de-201c-xiang-mu-jing-li-201d.md)
   * [2017](2017.md)
     * [清明时节](shi-guang-qian-mo/2017/qing-ming-shi-jie.md)
 
