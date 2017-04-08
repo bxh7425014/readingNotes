@@ -72,6 +72,8 @@
     * [\[转\] 如何搭建一个属于自己的直播平台](ji-shu-za-ji/8f6c5d-ru-he-da-jian-yi-ge-shu-yu-zi-ji-de-zhi-bo-ping-tai.md)
   * [MAC](ji-shu-za-ji/mac.md)
     * [如何安装任意来源的应用](ji-shu-za-ji/ru-he-an-zhuang-ren-yi-lai-yuan-de-ying-yong.md)
+  * [Linux](ji-shu-za-ji/linux.md)
+    * [ubuntu服务器环境搭建](ji-shu-za-ji/linux/ubuntufu-wu-qi-huan-jing-da-jian.md)
 * [时光阡陌](shi-guang-qian-mo.md)
   * [2016](2016.md)
     * [2016-1-10 招商银行销卡琐事](shi-guang-qian-mo/2016/2016-1-10-zhao-shang-yin-xing-xiao-qia-suo-shi.md)
