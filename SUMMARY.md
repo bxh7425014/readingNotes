@@ -136,4 +136,5 @@
     * [2013-02-19 专利点子](shi-guang-qian-mo/2013/2013-02-19-zhuan-li-dian-zi.md)
   * [2009](shi-guang-qian-mo/2009.md)
     * [2009-08-11 有缘即住无缘去，一任清风送白云](shi-guang-qian-mo/2009/2009-08-11-you-yuan-ji-zhu-wu-yuan-qu-ff0c-yi-ren-qing-feng-song-bai-yun.md)
+    * [2009-07-02](shi-guang-qian-mo/2009/2009-07-02.md)
 
