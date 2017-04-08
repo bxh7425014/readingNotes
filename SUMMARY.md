@@ -13,6 +13,7 @@
   * [如何“有效地一对一会谈”](2016/ru-he-201c-you-xiao-di-yi-dui-yi-hui-tan.md)
   * [对OKRs粗浅的理解](2016/dui-okrs-cu-qian-de-li-jie.md)
   * [主动做事](2016/zhu-dong-zuo-shi.md)
+  * [2016-1-10 招商银行销卡琐事](2016/2016-1-10-zhao-shang-yin-xing-xiao-qia-suo-shi.md)
 * [2015](2015.md)
   * [2015-12-18 公司高速发展是对团队最好的管理](2015/2015-12-18-gong-si-gao-su-fa-zhan-shi-dui-tuan-dui-zui-hao-de-guan-li.md)
 * [算法精解：C语言描述](suan-fa-jing-jie-ff1a-c-yu-yan-miao-shu.md)
