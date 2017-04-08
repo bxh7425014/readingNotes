@@ -25,6 +25,7 @@
     * [从丁香园事件看：厂长们期权操作的正确姿势](de-dao-za-ji/2016/cong-ding-xiang-yuan-shi-jian-kan-ff1a-chang-chang-men-qi-quan-cao-zuo-de-zheng-que-zi-shi.md)
     * [\[陈老师\]-工程师文化的试金石：快速原型](de-dao-za-ji/2016/chen-lao-5e085d-gong-cheng-shi-wen-hua-de-shi-jin-shi-ff1a-kuai-su-yuan-xing.md)
     * [2016-1-15 关于烂代码的那些事](de-dao-za-ji/2016/2016-1-15-guan-yu-lan-dai-ma-de-na-xie-shi.md)
+    * [公司高速发展是对团队最好的管理](de-dao-za-ji/2016/gong-si-gao-su-fa-zhan-shi-dui-tuan-dui-zui-hao-de-guan-li.md)
   * [2017](de-dao-za-ji/2017.md)
     * [为什么苹果公司效率更高](de-dao-za-ji/2017/wei-shi-yao-ping-guo-gong-si-xiao-lv-geng-gao.md)
     * [为什么努力换不来进步](de-dao-za-ji/2017/wei-shi-yao-nu-li-huan-bu-lai-jin-bu.md)
