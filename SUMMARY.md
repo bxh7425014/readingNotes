@@ -16,6 +16,7 @@
   * [2016-1-10 招商银行销卡琐事](2016/2016-1-10-zhao-shang-yin-xing-xiao-qia-suo-shi.md)
   * [2016-1-16 纪录片Hunt](2016/2016-1-16-ji-lupian-hunt.md)
   * [2016-1-17 喜欢读电子书还是纸质书](2016/2016-1-17-xi-huan-du-dian-zi-shu-huan-shi-zhi-zhi-shu.md)
+  * [2016-1-25 新时代的企业架构师](2016/2016-1-25-xin-shi-dai-de-qi-ye-jia-gou-shi.md)
 * [2015](2015.md)
   * [2015-12-18 公司高速发展是对团队最好的管理](2015/2015-12-18-gong-si-gao-su-fa-zhan-shi-dui-tuan-dui-zui-hao-de-guan-li.md)
 * [算法精解：C语言描述](suan-fa-jing-jie-ff1a-c-yu-yan-miao-shu.md)
