@@ -2,8 +2,8 @@
 #Android4.4以上屏幕录像方法
 一些问题提交屏幕录像信息，可以大大降低沟通成本。录像方法示例如下：
 ```
-C:\\Documents and Settings\\yyxz>adb shell
-shell@msm8974:/ $ screenrecord --size 1280x760 /sdcard/test.mp4
+>adb shell
+$ screenrecord --size 1280x760 /sdcard/test.mp4
 ```
 > 注：如果要降低屏幕录像清晰度，减小文件大小，也可以使用640x360分辨率来录像。
 
