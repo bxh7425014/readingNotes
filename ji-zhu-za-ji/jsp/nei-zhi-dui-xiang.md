@@ -10,10 +10,12 @@ JSP内置对象是应用JSP进行Web开发时，通过它们可以对Web开发�
 > 在开发Web应用时经常应用request对象获取请求参数的值和获取Cooike数据等。
 
 - 举例：
+
 ```
 <a href="delete.jsp?id=1">删除</a>
 ```
 在delete.jsp页面中可以通过request对象的getParameter()方法获取传递的参数值，代码如下：
+
 ```
 <% String id=request.getParameter("id");%>
 ```
