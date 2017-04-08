@@ -1,6 +1,8 @@
 2017-2-10 要不要跳槽
 [原文地址](http://mp.weixin.qq.com/s?__biz=MjM5ODIyMTE0MA==&mid=2650969193&idx=1&sn=5fb385aff02a341623b0dce617a30c2c&chksm=bd3830528a4fb944ad6fe18f0c918b9c53ec2a189076224d169b0ac68ae19208c8d7afe2d70f&mpshare=1&scene=1&srcid=02096w5mGGhqo8Dkwxgqj8tp#rd)
+
 永远对所拥有感到欣喜的人，是生活最富足的人。
+
 ---
 今天的分享摘自「冯大辉的小道消息，要不要跳槽」
 春节过后是跳槽高峰，有心跳槽的人在犹豫不决。
