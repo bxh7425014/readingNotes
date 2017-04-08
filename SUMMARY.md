@@ -123,4 +123,5 @@
   * [2008](shi-guang-qian-mo/2008.md)
     * [2008-09-13- 彭思富的《中秋致意》](shi-guang-qian-mo/2008/2008-09-13-peng-si-fu-de-300a-zhong-qiu-zhi-yi-300b.md)
     * [2008-12-03 影子](shi-guang-qian-mo/2008/2008-12-03-ying-zi.md)
+    * [20080101 烟火](shi-guang-qian-mo/2008/20080101-yan-huo.md)
 
