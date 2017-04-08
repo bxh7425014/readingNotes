@@ -85,7 +85,6 @@
     * [Sublime Text + Graphviz + Dot = 有向图](ji-shu-za-ji/sublime-text-+-graphviz-+-dot-you-xiang-tu.md)
     * [\[转\] 如何搭建一个属于自己的直播平台](ji-shu-za-ji/8f6c5d-ru-he-da-jian-yi-ge-shu-yu-zi-ji-de-zhi-bo-ping-tai.md)
     * [2015-10-28 使用Excel来计算加班时间，剥离午休时间段](ji-shu-za-ji/2015-10-28-shi-yong-excel-lai-ji-suan-jia-ban-shi-jian-ff0c-bo-li-wu-xiu-shi-jian-duan.md)
-  * [2010](2010.md)
   * [MAC](ji-shu-za-ji/mac.md)
     * [如何安装任意来源的应用](ji-shu-za-ji/ru-he-an-zhuang-ren-yi-lai-yuan-de-ying-yong.md)
   * [Linux](ji-shu-za-ji/linux.md)
