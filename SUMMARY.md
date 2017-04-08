@@ -19,6 +19,7 @@
     * [每个程序员都应读的10本经典书籍](de-dao-za-ji/2016/mei-ge-cheng-xu-yuan-du-ying-du-de-10-ben-jing-dian-shu-ji.md)
     * [2016-6-16 球队思维](de-dao-za-ji/2016/2016-6-16-qiu-dui-si-wei.md)
     * [\[焦英俊\]-阿里巴巴店铺的十年技术演变之路](de-dao-za-ji/2016/jiao-ying-4fca5d-a-li-ba-ba-dian-pu-de-shi-nian-ji-zhu-yan-bian-zhi-lu.md)
+    * [把所学知识都忘掉，剩下的才是你的](de-dao-za-ji/2016/ba-suo-xue-zhi-shi-du-wang-diao-ff0c-sheng-xia-de-cai-shi-ni-de.md)
   * [2017](de-dao-za-ji/2017.md)
     * [为什么苹果公司效率更高](de-dao-za-ji/2017/wei-shi-yao-ping-guo-gong-si-xiao-lv-geng-gao.md)
     * [为什么努力换不来进步](de-dao-za-ji/2017/wei-shi-yao-nu-li-huan-bu-lai-jin-bu.md)
