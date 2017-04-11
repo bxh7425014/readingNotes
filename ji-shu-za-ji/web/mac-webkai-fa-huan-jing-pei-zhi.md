@@ -82,11 +82,12 @@ $brew install zookeeper
 启动服务
 
 ```
-$ zkServer start
+$ sudo zkServer start
 ZooKeeper JMX enabled by default
 Using config: /usr/local/etc/zookeeper/zoo.cfg
 Starting zookeeper ... STARTED
 ```
+> 在MAC下需要用sudo命令来启动此服务，否则会失败。
 
 查看zookeeper运行及状态
 
