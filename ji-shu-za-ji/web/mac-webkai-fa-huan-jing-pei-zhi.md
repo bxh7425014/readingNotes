@@ -168,9 +168,8 @@ cosole输出：
 本机名称是：bogon
 本机的ip是 ：220.250.64.26
 ```
+220.250.64.26是虚拟的地址，导致项目在tomcat下无法正常运行。
 在mac终端可以看到，本机hostname是bogon，于是我们重设hostname，命令如下：
-
-
 ```
 $ sudo scutil --set HostName bianxh
 $ sudo scutil --set LocalHostName bianxh
