@@ -60,6 +60,7 @@
   * [Java](ji-shu-za-ji/java.md)
     * [Java中的volatile关键字](ji-shu-za-ji/java/javazhong-de-volatile-guan-jian-zi.md)
     * [线程总结](ji-shu-za-ji/java/xian-cheng-zong-jie.md)
+    * [Java获取本机名称+ip+外网ip](ji-shu-za-ji/java/javahuo-qu-ben-jiming-79f0+-ip-wai-wang-ip.md)
   * [JSP](ji-shu-za-ji/jsp.md)
     * [内置对象](ji-shu-za-ji/jsp/nei-zhi-dui-xiang.md)
     * [JSP语法](ji-shu-za-ji/jsp/jspyu-fa.md)
