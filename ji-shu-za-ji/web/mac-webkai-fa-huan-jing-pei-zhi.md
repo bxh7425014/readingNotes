@@ -131,7 +131,7 @@ $ /usr/local/Cellar/maven/3.3.9
 
 # Fix problems
 
-maven报错：
+##maven报错：
 
 ```
 Could not calculate build plan: Plugin org.apache.maven.plugins:maven-resources-plugin:2.6 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.apache.maven.plugins:maven-resources-plugin:jar:2.6
@@ -147,5 +147,50 @@ Could not calculate build plan: Plugin org.apache.maven.plugins:maven-resources-
 
 > 注：此IDE自带maven插件，不需要再自己下载安装maven插件
 
+## mac下，dubbo注册zookeeper，ip地址是一个虚拟的地址，并不是局域网的本机ip
+在搭建zookeeper的过程中，使用dubbo获取的地址总是220.250.64.26，通过jdk代码调用来看，确实是这样：
+```java
+InetAddress ia=null;
+try {
+    ia=ia.getLocalHost();
+     
+    String localname=ia.getHostName();
+    String localip=ia.getHostAddress();
+    System.out.println("本机名称是："+ localname);
+    System.out.println("本机的ip是 ："+localip);
+} catch (Exception e) {
+    // TODO Auto-generated catch block
+    e.printStackTrace();
+}
+```
+cosole输出：
+```
+本机名称是：bogon
+本机的ip是 ：220.250.64.26
+```
+在mac终端可以看到，本机hostname是bogon，于是我们重设hostname，命令如下：
+
+
+```
+$ sudo scutil --set HostName bianxh
+$ sudo scutil --set LocalHostName bianxh
+```
+然后修改hosts文件，
+```
+bogon:redis-3.0.7 bianxh$ subl /etc/hosts
+```
+在末位新增两行：
+```
+127.0.0.1 bianxh
+::1 bianxh
+```
+
+重新运行上面的java代码，可以看到ip地址正常了：
+
+```
+本机名称是：bianxh
+本机的ip是 ：127.0.0.1
+```
+接下来，通过dubbo注册zookeeper，可以看到console输出的注册地址就正常了，变为局域网内的本机地址。
 
 
