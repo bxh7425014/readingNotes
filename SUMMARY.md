@@ -93,6 +93,7 @@
     * [Windows批处理编写心得](ji-shu-za-ji/windowspi-chu-li-bian-xie-xin-de.md)
   * [MAC](ji-shu-za-ji/mac.md)
     * [如何安装任意来源的应用](ji-shu-za-ji/ru-he-an-zhuang-ren-yi-lai-yuan-de-ying-yong.md)
+    * [重建MAC的右键打开方式列表](ji-shu-za-ji/zhong-jian-mac-de-you-jian-da-kai-fang-shi-lie-biao.md)
   * [Linux](ji-shu-za-ji/linux.md)
     * [ubuntu服务器环境搭建](ji-shu-za-ji/linux/ubuntufu-wu-qi-huan-jing-da-jian.md)
     * [Linux常用命令](ji-shu-za-ji/linux/linuxchang-yong-ming-ling.md)
