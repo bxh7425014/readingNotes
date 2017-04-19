@@ -14,8 +14,8 @@ $$
 F(n) = 
 \left\{
 \begin{array}{a}
-1 \\
-nF(n-1)
+1\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 如果n=0,n=1\\
+nF(n-1) 如果n>1
 \end{array}
 \right.
 $$
