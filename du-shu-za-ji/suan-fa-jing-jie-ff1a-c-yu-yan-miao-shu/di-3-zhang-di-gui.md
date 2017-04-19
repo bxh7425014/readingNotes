@@ -44,6 +44,9 @@ nF(n-1,na) \ 如果n>1
 \right.
 $$
 
+![输入图片说明](https://git.oschina.net/uploads/images/2017/0419/221235_5890f75d_438941.png "在这里输入图片标题")
+
+![输入图片说明](https://git.oschina.net/uploads/images/2017/0419/221126_691cfdd6_438941.png "在这里输入图片标题")
 
 
 
