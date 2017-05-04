@@ -115,6 +115,7 @@
     * [小家伙的趣事](shi-guang-qian-mo/2016/xiao-jia-huo-de-qu-shi.md)
   * [2017](shi-guang-qian-mo/2017.md)
     * [清明时节](shi-guang-qian-mo/2017/qing-ming-shi-jie.md)
+    * [OA系统宣传手册](shi-guang-qian-mo/2017/oaxi-tong-xuan-chuan-shou-ce.md)
   * [2015](shi-guang-qian-mo/2015.md)
     * [2015-11 自由的空气](shi-guang-qian-mo/2015/2015-11-zi-you-de-kong-qi.md)
     * [2015-11-15 情绪](shi-guang-qian-mo/2015/2015-11-15-qing-xu.md)
