@@ -117,6 +117,7 @@
     * [清明时节](shi-guang-qian-mo/2017/qing-ming-shi-jie.md)
     * [OA系统宣传手册](shi-guang-qian-mo/2017/oaxi-tong-xuan-chuan-shou-ce.md)
     * [2017-05-16 有关OA盈利方式的思考](shi-guang-qian-mo/2017/2017-05-16-you-guan-oa-ying-li-fang-shi-de-si-kao.md)
+    * [2017-05-17 51接龙产品构想](shi-guang-qian-mo/2017/2017-05-17-51jie-long-chan-pin-gou-xiang.md)
   * [2015](shi-guang-qian-mo/2015.md)
     * [2015-11 自由的空气](shi-guang-qian-mo/2015/2015-11-zi-you-de-kong-qi.md)
     * [2015-11-15 情绪](shi-guang-qian-mo/2015/2015-11-15-qing-xu.md)
