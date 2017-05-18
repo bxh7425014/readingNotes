@@ -148,4 +148,5 @@
     * [2009-06-25](shi-guang-qian-mo/2009/2009-06-25.md)
   * [2007](shi-guang-qian-mo/2007.md)
     * [2007随笔](shi-guang-qian-mo/2007/2007sui-bi.md)
+* [打赏入口](da-shang-ru-kou.md)
 
