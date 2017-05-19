@@ -50,6 +50,7 @@
     * [第1章 概述](du-shu-za-ji/suan-fa-jing-jie-ff1a-c-yu-yan-miao-shu/di-1-zhang-gai-shu.md)
     * [第2章 指针操作](du-shu-za-ji/suan-fa-jing-jie-ff1a-c-yu-yan-miao-shu/di-2-zhang-zhi-zhen-cao-zuo.md)
     * [第3章 递归](du-shu-za-ji/suan-fa-jing-jie-ff1a-c-yu-yan-miao-shu/di-3-zhang-di-gui.md)
+    * [第4章 算法分析](du-shu-za-ji/suan-fa-jing-jie-ff1a-c-yu-yan-miao-shu/di-4-zhang-suan-fa-fen-xi.md)
   * [空谷幽兰](du-shu-za-ji/kong-gu-you-lan.md)
     * [第六章 登天之道](du-shu-za-ji/kong-gu-you-lan/di-liu-zhang-deng-tian-zhi-dao.md)
 * [技术杂记](ji-shu-za-ji.md)
