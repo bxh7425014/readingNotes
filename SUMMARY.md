@@ -21,4 +21,5 @@
     * [15.11 问题](du-shu-za-ji/javabian-cheng-si-xiang-di-4-ban/di-15-zhang-fan-xing/1511-wen-ti.md)
 * [空谷幽兰](du-shu-za-ji/kong-gu-you-lan.md)
   * [第六章 登天之道](du-shu-za-ji/kong-gu-you-lan/di-liu-zhang-deng-tian-zhi-dao.md)
+* [轻量级Java EE企业应用实战（第3版）](qing-liang-ji-java-ee-qi-ye-ying-yong-shi-zhan-ff08-di-3-ban-ff09.md)
 
